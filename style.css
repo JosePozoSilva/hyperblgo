@@ -2,7 +2,11 @@ html{
     font-size: 62.5%;
 }
 body{
+<<<<<<< HEAD
     color:blue;
+=======
+    color: red;
+>>>>>>> cabecera
     text-align: center;
     font-family: arial;
     font-size: 1.6rem;
